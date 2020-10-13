@@ -1,0 +1,142 @@
+html{
+    padding-top: 20px;
+    
+    
+}
+
+#bg{
+    background-color: darkslateblue;
+    height: 600px;
+    width: 970px;
+    margin: 0px auto;
+
+}
+
+#header{
+    background-color: firebrick;
+    min-height: 70px;
+    width: 900px;
+    margin-top: 50px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    border-radius: 20px;
+    padding-top: 10px;
+    padding-left: 20px;
+
+}
+
+#nav{
+    background-color:darkcyan;
+    width: 200px;
+    height: 250px;
+    margin-left: 20px;
+    border-radius: 20px;
+    padding-top: 20px;
+    padding-left: 10px;
+    display: inline-block;
+    vertical-align: top;
+
+
+}
+
+#main{
+    background-color: rgb(0, 0, 76);
+    display: inline-block;
+    height: 360px;
+    width: 640px;
+    margin-left: 20px;
+    border-radius: 20px;
+    margin-right: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+}
+
+#footer{
+    background-color: grey;
+    border-radius: 20px;
+    display: block;
+    min-height: 35px;
+    width: 900px;
+    margin-left: 20px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    padding-top: 15px;
+    padding-left: 20px;
+    
+}
+
+h3{
+    size: 20px;
+    color: ivory;
+    
+
+}
+
+p{
+    display: inline;
+    font-size: 40px;
+    color: ivory;
+}
+#p_footer{
+    display: inline;
+    font-size: 20px;
+    color: lightblue;
+    justify-items: flex-start;
+    align-content: flex-start;
+}
+
+.a_footer{
+    display: inline;
+    font-size: 20px;
+    
+    justify-items: flex-start;
+    align-content: flex-start;
+}
+
+.li_link{
+    font-size: 15px;
+    color: lightskyblue;
+    list-style-type: disc;
+    text-decoration-line: underline;
+}
+
+ul{
+    padding-left: 20px;
+    margin-top: 2px;
+    color: ivory;
+}
+ul ul{
+    list-style-type: circle !important;
+}
+
+.main_p{
+    font-size: 12px !important;
+    color: ivory !important;
+
+}
+
+.main_ul{
+    font-size: 12px !important;
+    color: ivory !important;
+    display: inline;
+
+}
+
+.highlevel{
+    color: olive;
+    font-size: 12px;
+}
+
+.highlevel1{
+    color: salmon;
+    font-size: 12px;
+}
+
+.highlevel2{
+    color: red;
+    font-size: 12px;
+}
